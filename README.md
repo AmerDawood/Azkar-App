@@ -1,5 +1,5 @@
 # azkar_app
-#First Flutter App
+# First Flutter App
 
 A new Flutter project.
 
